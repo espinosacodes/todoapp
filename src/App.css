@@ -81,9 +81,10 @@ h1 {
 }
 
 .completed {
-  color: #BB86FC; /* Accent color for completed todos */
+  color: #ffffff; /* Accent color for completed todos */
   text-decoration: line-through;
   cursor: pointer;
+  
 }
 
 .edit-icon,
