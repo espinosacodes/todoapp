@@ -1,12 +1,15 @@
-#That is how the Todo looks 
+# That is how the Todo looks 
 ![image](https://github.com/taxevader007/todoapp/assets/137323891/4d2e208c-3f57-4c83-8e78-ca78d90265bb)
 # adding a task 
 ![image](https://github.com/taxevader007/todoapp/assets/137323891/d958e572-bc21-4abe-a11d-eb9ddd91e85b)
-#editing
-![image](https://github.com/taxevader007/todoapp/assets/137323891/0937f8ee-c09d-4eb0-9ebd-3c39b98602df)
-#deleting
-![image](https://github.com/taxevader007/todoapp/assets/137323891/313e01d7-7bc3-40fa-a7bc-04a59d24f897)
-![image](https://github.com/taxevader007/todoapp/assets/137323891/0916792b-1da8-4b44-9123-1dad8e99a4a5)
+# editing a task
+![image](https://github.com/taxevader007/todoapp/assets/137323891/8c1864fe-f39d-43db-a365-c7405aa4df23)
+![image](https://github.com/taxevader007/todoapp/assets/137323891/6a0d92af-8246-40c0-af05-2c28878cf501)
+
+# deleting and click a task as completed
+![image](https://github.com/taxevader007/todoapp/assets/137323891/2671de3b-e5b4-4bf4-80e3-2ac02fdbfbdf)
+![image](https://github.com/taxevader007/todoapp/assets/137323891/0476a2cc-b3a7-444a-9c2f-f7a6c56b13f9)
+
 
 
 
