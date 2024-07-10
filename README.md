@@ -1,4 +1,16 @@
+#That is how the Todo looks 
 ![image](https://github.com/taxevader007/todoapp/assets/137323891/4d2e208c-3f57-4c83-8e78-ca78d90265bb)
+# adding a task 
+![image](https://github.com/taxevader007/todoapp/assets/137323891/d958e572-bc21-4abe-a11d-eb9ddd91e85b)
+#editing
+![image](https://github.com/taxevader007/todoapp/assets/137323891/0937f8ee-c09d-4eb0-9ebd-3c39b98602df)
+#deleting
+![image](https://github.com/taxevader007/todoapp/assets/137323891/313e01d7-7bc3-40fa-a7bc-04a59d24f897)
+![image](https://github.com/taxevader007/todoapp/assets/137323891/0916792b-1da8-4b44-9123-1dad8e99a4a5)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
